@@ -2,11 +2,14 @@
   "Application": "nblog",
   "Files": [
     {
-      "Path": "smoke.txt",
+      "Path": "NDP472-DevPack-ENU.exe",
       "Version": 1,
-      "Size": 26,
-      "Sha256": "9cc31cacc02cf1d8cd865667dfd027684768e7a24a794de8609300862b2bc9bb",
-      "Parts": []
+      "Size": 109665128,
+      "Sha256": "2f4ee2852b95c37a806e2deec567751dd59b0dd27049641bbd4e1c0e22adfe46",
+      "Parts": [
+        "NDP472-DevPack-ENU.exe.part0001",
+        "NDP472-DevPack-ENU.exe.part0002"
+      ]
     }
   ]
 }
