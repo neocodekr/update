@@ -1,0 +1,12 @@
+{
+  "Application": "nblog",
+  "Files": [
+    {
+      "Path": "smoke.txt",
+      "Version": 1,
+      "Size": 26,
+      "Sha256": "9cc31cacc02cf1d8cd865667dfd027684768e7a24a794de8609300862b2bc9bb",
+      "Parts": []
+    }
+  ]
+}
